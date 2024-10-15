@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EncryptedSharedPreferences</string>
+    <string name="type_here">Type here...</string>
+    <string name="save">Save</string>
+</resources>
